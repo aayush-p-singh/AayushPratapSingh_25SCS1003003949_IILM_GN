@@ -32,4 +32,4 @@ To build an interaction matrix and use similarity techniques to identify potenti
 - Seaborn  
 
 ## Conclusion
-The project demonstrates how basic AI/ML techniques can be applied to ecological problems like wildlife corridor analysis and habitat prediction.
+The project demonstrates how basic AI&ML techniques can be applied to ecological problems like wildlife corridor analysis and habitat prediction.
