@@ -1,0 +1,13 @@
+species,habitat,interaction
+Tiger,Forest,5
+Tiger,Grassland,3
+Elephant,Forest,5
+Elephant,Waterbody,4
+Elephant,Grassland,3
+Deer,Grassland,5
+Deer,Forest,3
+Deer,Waterbody,2
+Leopard,Forest,4
+Leopard,Grassland,4
+Wolf,Grassland,5
+Wolf,Forest,2
